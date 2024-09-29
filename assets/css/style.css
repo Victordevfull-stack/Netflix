@@ -58,3 +58,25 @@ main form{
     margin: 20% 0 35% 35%;
     box-sizing: border-box
 }
+
+.email{
+    margin: 1% 0 30% 30%;
+}
+
+main button{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 200px;
+    height: 53px;
+    color: white;
+    background-color: brown;
+}
+
+main input{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 600px;
+    height: 45px;
+    color: brown;
+    background-color: white;
+}

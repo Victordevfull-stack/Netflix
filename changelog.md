@@ -7,10 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] 2024-09-28
 
-### Added
+### Adicionado
 
 - Added Changelog.md
 
-### Modificado
+### Modificação
 
 - Modificado Changelog.md
+
+### Adicionado
+
+- Adicionado Testo principal do index
+
+### Adicionado
+
+- Adicionado caixa de email
