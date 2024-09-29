@@ -1,12 +1,14 @@
+
+
 body{
-    background-image: url(../img/background.jpg
-    );
+    background: #0000007f url(../img/background.jpg
+    ) no-repeat;
+    background-blend-mode:overlay;
 }
 
 header{
     display: flex;
-    justify-content: space-between;
-    background-color: rgba(0, 0, 0, 0.378);
+    justify-content: last baseline;
 }
 
 header img{
@@ -14,12 +16,28 @@ header img{
     width: 12%;
 }
 
-header select{
+header div{
     background-color: black;
     color: aliceblue;
-    width:  150px;
+    border-radius: 5px;
+    width:  190px;
     height: 35px;
+    align-content: center;
+    box-sizing: border-box;
     margin: 30px 10px 0 auto;
+}
+
+.translate{
+    translate: 0px 5px;
+}
+
+header select{
+    translate: 0 -2px;
+    width:  160px;
+    height: 35px;
+    background-color: black;
+    color: aliceblue;
+    border: 0;
     border-radius: 5px;
 }
 

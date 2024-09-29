@@ -9,9 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Adicionado
 
-- Added Changelog.md
+- Adicionado Changelog.md
 
-### Modificação
+### Modificado
 
 - Modificado Changelog.md
 
@@ -22,3 +22,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Adicionado
 
 - Adicionado caixa de email
+
+## [0.0.1] 2024-09-29
+
+### Adicionado
+
+- Adicionados Icon Translate
+
+- Adicionado Imagens do site
