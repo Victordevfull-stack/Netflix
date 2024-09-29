@@ -34,3 +34,27 @@ header button{
     box-sizing: border-box;
     border-radius: 5px;
 }
+main form{
+    padding: 200px 0 0 0 ;
+    display: flexbox;
+}
+.first{
+    font-size: 70px;
+    color: aliceblue;
+    margin: 0 0 20% 20%;
+    box-sizing: border-box;
+}
+
+.second{
+    font-size: 40px;
+    color: aliceblue;
+    margin: 0 0 30% 30%;
+    box-sizing: border-box
+}
+
+.thirst{
+    font-size: 20px;
+    color: aliceblue;
+    margin: 20% 0 35% 35%;
+    box-sizing: border-box
+}
