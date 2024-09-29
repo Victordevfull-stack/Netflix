@@ -1,0 +1,36 @@
+body{
+    background-image: url(../img/background.jpg
+    );
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.378);
+}
+
+header img{
+    margin: -20px 0 0 100px;
+    width: 12%;
+}
+
+header select{
+    background-color: black;
+    color: aliceblue;
+    width:  150px;
+    height: 35px;
+    margin: 30px 10px 0 auto;
+    border-radius: 5px;
+}
+
+header button{
+    color: white;
+    background-color: brown;
+    border: 2px solid white;
+    width:  80px;
+    height: 35px;
+    padding: 10px;
+    margin: 30px 10% 0 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
